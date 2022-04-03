@@ -7,6 +7,9 @@ git config --global user.name "Lorena Armas"
 ## sirve para editar el correo asociado a GIT HUB
 git config --global user.email "lorena..."
 
+## sirve para clonar un repositorio
+git clone <url-repositorio> <repositorio-nombre>
+
 ## sirve para inicializar el repositorio
 git init
 
